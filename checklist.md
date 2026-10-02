@@ -11,16 +11,16 @@ Here is a simple checklist for the tasks ahead.
 - [ ] Simple sin-fit
 - [ ] Label with fit-params
 - [ ] How good is the fit? → Return R2
-- [ ] COmparing 
+- [ ] Comparing 
 - [ ] Train vs Mean
 - [ ] Fit of Mean
 - [ ] Mean of Fits
 
 ### 3. Steps
-- [ ] Second task
+- [ ] 
 
 ### 4. Improvement
-- [ ] Second task
-- 
+- [ ] 
+- [x] 
 ### 5. Correlation
-- [ ] Second task
+- [ ] 
