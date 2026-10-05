@@ -28,6 +28,7 @@ Here is a simple checklist for the tasks ahead.
 - [ ] "What are our steps" (Kick, Launch, DX/Y)
 
 ### 4. Improvement
+- [ ] Improve initial conditions (normally I just estimate with means and or max/mins?)
 - [ ] Other fit-algorithms
 - [ ] Check for overfitting
 
